@@ -1,0 +1,20 @@
+﻿MakeupInventoryWPF
+
+
+winexe
+C#
+.cs
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\
+MakeupInventoryWPF
+none
+false
+DEBUG;TRACE
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\App.xaml
+41481644420
+2-761390301
+21-842268407
+144-871322780
+MainWindow.xaml;Views\AddProductWindow.xaml;Views\LoginWindow.xaml;Views\ProductMovementWindow.xaml;
+
+False
+

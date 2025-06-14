@@ -1,0 +1,138 @@
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MakeupInventoryWPF.exe.config
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MakeupInventoryWPF.exe
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MakeupInventoryWPF.pdb
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ClosedXML.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ControlzEx.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\EntityFramework.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\RBush.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\System.Buffers.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\System.Memory.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ClosedXML.pdb
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ClosedXML.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ControlzEx.pdb
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ControlzEx.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\EntityFramework.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\RBush.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\System.Buffers.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\System.Memory.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.csproj.AssemblyReference.cache
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\Views\AddProductWindow.g.cs
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\Views\ProductMovementWindow.g.cs
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\App.g.cs
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF_Content.g.cs
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF_MarkupCompile.cache
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF_MarkupCompile.lref
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\App.baml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MainWindow.baml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\Views\AddProductWindow.baml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\Views\LoginWindow.baml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\Views\ProductMovementWindow.baml
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.g.resources
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.Properties.Resources.resources
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.csproj.GenerateResource.cache
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.csproj.CoreCompileInputs.cache
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupIn.C0307516.Up2Date
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.exe
+C:\Users\Martin Cossio\source\repos\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.pdb
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MakeupInventoryWPF.exe.config
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MakeupInventoryWPF.exe
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MakeupInventoryWPF.pdb
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ClosedXML.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ControlzEx.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\RBush.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\System.Buffers.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\System.Memory.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ClosedXML.pdb
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ClosedXML.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ControlzEx.pdb
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ControlzEx.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\RBush.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\System.Buffers.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\System.Memory.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\Views\AddProductWindow.g.cs
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\Views\ProductMovementWindow.g.cs
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\App.g.cs
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF_Content.g.cs
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF_MarkupCompile.cache
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF_MarkupCompile.lref
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\App.baml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MainWindow.baml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\Views\AddProductWindow.baml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\Views\LoginWindow.baml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\Views\ProductMovementWindow.baml
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.g.resources
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.Properties.Resources.resources
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.csproj.GenerateResource.cache
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupIn.C0307516.Up2Date
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.exe
+C:\Users\Martin\Documents\Desarrollo empresarial II\Proyecto a editar\MakeupInventoryWPF\obj\Debug\MakeupInventoryWPF.pdb

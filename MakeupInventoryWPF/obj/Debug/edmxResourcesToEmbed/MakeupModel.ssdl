@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MakeupModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ProductMovements">
+    <Key>
+      <PropertyRef Name="MovementID" />
+    </Key>
+    <Property Name="MovementID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SKU" Type="char" MaxLength="6" />
+    <Property Name="ProductName" Type="nvarchar" MaxLength="100" />
+    <Property Name="Description" Type="nvarchar" MaxLength="255" />
+    <Property Name="MovementType" Type="nvarchar" MaxLength="10" />
+    <Property Name="ProductStockBeforeMovement" Type="int" />
+    <Property Name="ProductStockAfterMovement" Type="int" />
+    <Property Name="Reason" Type="nvarchar" MaxLength="255" />
+    <Property Name="EmployeeID" Type="int" />
+    <Property Name="EmployeeName" Type="nvarchar" MaxLength="100" />
+    <Property Name="MovementDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" />
+    <Property Name="SKU" Type="char" MaxLength="6" />
+    <Property Name="Description" Type="nvarchar" MaxLength="255" />
+    <Property Name="Stock" Type="int" />
+    <Property Name="MinStock" Type="int" />
+    <Property Name="MaxStock" Type="int" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" />
+    <Property Name="UserPassword" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <Association Name="FK__ProductMo__Emplo__4F7CD00D">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="ProductMovements" Type="Self.ProductMovements" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="ProductMovements">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <!--Errors Found During Generation:
+warning 6035: The relationship 'FK__ProductMove__SKU__5070F446' has columns that are not part of the key of the table on the primary side of the relationship. The relationship was excluded.
+        <Association Name="FK__ProductMove__SKU__5070F446" />-->
+  <EntityContainer Name="MakeupModelStoreContainer">
+    <EntitySet Name="ProductMovements" EntityType="Self.ProductMovements" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__ProductMo__Emplo__4F7CD00D" Association="Self.FK__ProductMo__Emplo__4F7CD00D">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="ProductMovements" EntitySet="ProductMovements" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

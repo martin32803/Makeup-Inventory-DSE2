@@ -1,0 +1,102 @@
+﻿<Window x:Class="MakeupInventoryWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MakeupInventoryWPF"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Style="{StaticResource MaterialDesignWindow}"
+        WindowStartupLocation="CenterScreen"
+        Icon="Assets/bibianoico.ico"
+        mc:Ignorable="d"
+        Title="Sistema de inventario" Height="650" Width="1000" Background="#FFFAFAFA">
+
+    <Grid Background="#FFFAFAFA">
+        <DockPanel>
+
+            <!-- Barra superior -->
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Background="#FFEEEEEE" Margin="10">
+                <TextBlock Text="Usuario: " FontWeight="Bold" VerticalAlignment="Center" Margin="5"/>
+                <TextBlock Text="{x:Static local:CurrentSession.EmployeeName}" Margin="5,0,20,0" VerticalAlignment="Center"/>
+                <Button Content="Agregar Producto" Click="AddProduct_Click" Margin="5"/>
+                <Button Content="Registrar Movimiento" Click="RegisterMovement_Click" Margin="5"/>
+                <Button Content="Exportar Reporte" Click="ExportReport_Click" Margin="5"/>
+                <Button Content="Cerrar Sesión" Click="Logout_Click" HorizontalAlignment="Right" Margin="5"/>
+            </StackPanel>
+
+            <!-- Contenido principal -->
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel Margin="10">
+
+                    <!-- Encabezado Productos -->
+                    <TextBlock Text="Productos" FontSize="18" FontWeight="Bold" Margin="0,0,0,5"/>
+
+                    <!-- DataGrid Productos -->
+                    <DataGrid
+                    Name="InventoryGrid"
+                    AutoGenerateColumns="False"
+                    ColumnWidth="Auto"
+                    CanUserAddRows="False"
+                    RowHeaderWidth="0"
+                    HeadersVisibility="Column"
+                    GridLinesVisibility="Horizontal"
+                    HorizontalScrollBarVisibility="Auto"
+                    IsReadOnly="True"
+                    Height="200"
+                    Margin="0,0,0,15">
+
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding ProductID}" />
+                            <DataGridTextColumn Header="Nombre" Binding="{Binding Name}" />
+                            <DataGridTextColumn Header="SKU" Binding="{Binding SKU}" />
+                            <DataGridTextColumn Header="Descripción" Binding="{Binding Description}" />
+                            <DataGridTextColumn Header="Stock" Binding="{Binding Stock}" />
+                            <DataGridTextColumn Header="Min" Binding="{Binding MinStock}" />
+                            <DataGridTextColumn Header="Max" Binding="{Binding MaxStock}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <!-- Encabezado Movimientos -->
+                    <StackPanel Orientation="Horizontal" Margin="0,10,0,5">
+                        <TextBlock Text="Movimientos recientes" FontSize="18" FontWeight="Bold" Margin="0,0,300,5"/>
+                        <TextBlock Text="Desde:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                        <DatePicker x:Name="StartDatePicker" Margin="0,0,10,0"/>
+
+                        <TextBlock Text="Hasta:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                        <DatePicker x:Name="EndDatePicker" Margin="0,0,10,0"/>
+
+                        <Button Content="Filtrar" Click="FilterMovements_Click" Margin="0,0,5,0"/>
+                        <Button Content="Quitar filtro" Click="ClearMovementsFilter_Click"/>
+                    </StackPanel>
+
+                    <!-- DataGrid Movimientos -->
+                    <DataGrid
+                    Name="MovementsGrid"
+                    AutoGenerateColumns="False"
+                    CanUserAddRows="False"
+                    RowHeaderWidth="0"
+                    HeadersVisibility="Column"
+                    GridLinesVisibility="Horizontal"
+                    HorizontalScrollBarVisibility="Auto"
+                    ColumnWidth="Auto"
+                    IsReadOnly="True"
+                    Height="200">
+
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Fecha" Binding="{Binding MovementDate}" />
+                            <DataGridTextColumn Header="SKU" Binding="{Binding SKU}" />
+                            <DataGridTextColumn Header="Producto" Binding="{Binding ProductName}" />
+                            <DataGridTextColumn Header="Tipo" Binding="{Binding MovementType}" />
+                            <DataGridTextColumn Header="Antes" Binding="{Binding ProductStockBeforeMovement}" />
+                            <DataGridTextColumn Header="Después" Binding="{Binding ProductStockAfterMovement}" />
+                            <DataGridTextColumn Header="Motivo" Binding="{Binding Reason}" />
+                            <DataGridTextColumn Header="Empleado" Binding="{Binding EmployeeName}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                </StackPanel>
+            </ScrollViewer>
+        </DockPanel>
+    </Grid>
+</Window>
